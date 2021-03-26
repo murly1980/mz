@@ -5,7 +5,7 @@ class Abc{
 
 		for(int i=0;i===<10;i++)
 		{
-			System.out.println("Great");
+			System.out.println("Great...");
 
 		}
 	}
